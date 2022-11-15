@@ -19,4 +19,4 @@ DD-01-Redacted.pdf -- Detailed Design Document. Highlights following salient fea
                       Custom Symbols development in conformance with relevant International Standards
                       Detailed Cross Reference of used components for error-free implementation
                       
-                      
+EOF
